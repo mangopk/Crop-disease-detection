@@ -1,1 +1,1 @@
-# Crop-disease-detection
+# Deployment-Deep-Learning-Model
